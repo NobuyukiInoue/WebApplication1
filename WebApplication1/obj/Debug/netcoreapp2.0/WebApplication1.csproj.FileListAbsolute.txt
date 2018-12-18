@@ -1,0 +1,12 @@
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\n1.inoue\Develop-Work\LANGS\IIS\dotnet_core_sample\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
